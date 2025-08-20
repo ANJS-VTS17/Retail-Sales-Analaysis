@@ -1,4 +1,4 @@
-# 🧾Retail Sales Analysis (Power BI)
+# 🧾Retail-Sales-Analysis
 
 Performed retail sales analysis to track revenue growth, customer purchase behavior, and product performance using Excel, SQL, and Power BI dashboards.
 
