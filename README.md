@@ -1,6 +1,6 @@
-# 🧾 Sales Performance Dashboard (Power BI)
+# 🧾Retail Sales Analysis (Power BI)
 
-This project showcases a **Sales Performance Dashboard** built in **Power BI** using a synthetic retail dataset.
+Performed retail sales analysis to track revenue growth, customer purchase behavior, and product performance using Excel, SQL, and Power BI dashboards.
 
 ---
 
